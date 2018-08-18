@@ -1,0 +1,22 @@
+#map{
+    margin-left: 9px;
+}
+
+h5{
+    position: absolute;
+}
+
+#divSelect{
+    margin-left: 20px;   
+}
+/*select{
+    font-size: 15px;
+}*/
+
+#ver-btn{
+    font-size: 12px;
+}
+
+body{
+   background-color: lightgreen;
+}
