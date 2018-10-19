@@ -3,8 +3,6 @@
   margin-right: auto;
 }
 
-
-
 h5{
     position: absolute;
 }
@@ -12,9 +10,6 @@ h5{
 #divSelect{
     margin-left: 20px;  
 }
-/*select{
-    font-size: 15px;
-}*/
 
 #ver-btn{
     font-size: 12px;
