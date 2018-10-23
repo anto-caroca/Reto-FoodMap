@@ -1,4 +1,4 @@
-# Reto-FoodMap
+# Reto Food-Map
 
 link al proyecto <https://anto-caroca.github.io/Reto-FoodMap/splashScreen.html>
 
