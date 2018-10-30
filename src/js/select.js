@@ -33,7 +33,7 @@ let restaurants
       })
      }
     
-     getData('GET', 'https://places.demo.api.here.com/places/v1/discover/search?at=-33.4167%2C-70.65&q=restaurant&app_id=YTwDUxFfBXp7TI2GimXS&app_code=qlKZLMttFtDmjErf3WAolA').then(function (data) {
+     getData('GET', 'https://places.demo.api.here.com/places/v1/discover/search?at=-33.4167%2C-70.65&q=restaurant&app_id=0043rJZtco9FuX0c32HD&app_code=Uzz7BvsnglZBJbj-IKaR9A').then(function (data) {
    restaurants = JSON.parse(data)
    // console.log(data);
    console.log(restaurants) // Calle Profesor Alberto Zañartu 852<br/>8420000 Cementerios, Recoleta<br/>Chile

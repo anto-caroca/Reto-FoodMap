@@ -145,8 +145,8 @@ function addPlacesToPanel(places){
 
 // 1. initialize platform
 var platform = new H.service.Platform({
-  app_id: 'YTwDUxFfBXp7TI2GimXS',
-  app_code: 'qlKZLMttFtDmjErf3WAolA',
+  app_id: '0043rJZtco9FuX0c32HD',
+  app_code: 'Uzz7BvsnglZBJbj-IKaR9A',
   useHTTPS: true,
   useCIT: true
 });
